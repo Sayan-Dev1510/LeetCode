@@ -38,4 +38,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sayan-Dev1510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sayan-Dev1510/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
